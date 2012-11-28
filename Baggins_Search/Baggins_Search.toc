@@ -1,0 +1,17 @@
+## Interface: 50100
+## X-Curse-Packaged-Version: 1.0.43
+## X-Curse-Project-Name: Baggins_Search
+## X-Curse-Project-ID: baggins_search
+## X-Curse-Repository-ID: wow/baggins_search/mainline
+
+## Title: Baggins Search
+## Notes: Simple search inspired by vBagnon
+
+## Author: JASlaughter, Mikk
+## Version: 1.0.43
+## X-Category: Inventory
+
+## Dependencies: Baggins
+## SavedVariables: BagginsSearch_Save
+
+Baggins_Search.lua
